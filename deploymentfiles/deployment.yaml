@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: doc-project
-          image: balumidikondla/doc_project:latest
+          image: balumidikondla/doc_project:9
           ports:
             - containerPort: 8080
 
